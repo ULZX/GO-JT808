@@ -19,12 +19,12 @@
 15. ✅ 多状态报警等
 
 ## 界面方式 (可不要,也可以定制)
-![移动端主界面](https://github.com/ULZX/GO-JT808/blob/main/imgs/1.PNG)
-![移动端主界面](https://github.com/ULZX/GO-JT808/blob/main/imgs/2.PNG)
-![移动端主界面](https://github.com/ULZX/GO-JT808/blob/main/imgs/3.PNG)
-![移动端主界面](https://github.com/ULZX/GO-JT808/blob/main/imgs/4.PNG)
-![移动端主界面](https://github.com/ULZX/GO-JT808/blob/main/imgs/5.PNG)
-![移动端主界面](https://github.com/ULZX/GO-JT808/blob/main/imgs/6.PNG)
-![移动端主界面](https://github.com/ULZX/GO-JT808/blob/main/imgs/7.PNG)
-## 联系
-![联系微信](https://github.com/ULZX/GO-JT808/blob/main/imgs/0.PNG)
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/1.jpg" width="300">
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/2.jpg" width="300">
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/3.jpg" width="300">
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/4.jpg" width="300">
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/5.jpg" width="300">
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/6.jpg" width="300">
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/7.jpg" width="300">
+## 扫码联系
+<img src="https://github.com/ULZX/GO-JT808/blob/main/imgs/0.jpg" width="300">
